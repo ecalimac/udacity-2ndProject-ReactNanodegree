@@ -1,12 +1,15 @@
-import React from "react";
+import React, { Component } from "react";
 
-import { Container } from "semantic-ui-react";
-import Login from "./Login";
+import Nav from "./planning_stage/Nav";
 
-const App = () => (
-  <Container>
-    <Login />
-  </Container>
-);
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <Nav />
+      </div>
+    );
+  }
+}
 
 export default App;
