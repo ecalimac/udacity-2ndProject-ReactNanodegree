@@ -18,6 +18,8 @@ The user will be able to answer the question and upon answering will be able to 
 
 [See the **rubric** for specific criteria.](https://review.udacity.com/#!/rubrics/1567/view)
 
+[https://dreamy-wright-bbb546.netlify.app/leaderboard]9https://dreamy-wright-bbb546.netlify.app/leaderboard)
+
 ## Starter Code
 
 The starter code will consist of a \_DATA.js file, which represents a fake database and contains methods that let you access the data.
