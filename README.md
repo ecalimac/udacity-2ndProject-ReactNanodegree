@@ -19,7 +19,7 @@ The user will be able to answer the question and upon answering will be able to 
 [See the **rubric** for specific criteria.](https://review.udacity.com/#!/rubrics/1567/view)
 
 Live code:
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1827f743-4bb8-42f5-bb4a-3ea011a9c7d6/deploy-status)](https://app.netlify.com/sites/dreamy-wright-bbb546/deploys)
+[https://dreamy-wright-bbb546.netlify.app/](https://dreamy-wright-bbb546.netlify.app/)
 
 ## Starter Code
 
