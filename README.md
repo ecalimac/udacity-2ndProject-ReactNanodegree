@@ -18,7 +18,7 @@ The user will be able to answer the question and upon answering will be able to 
 
 [See the **rubric** for specific criteria.](https://review.udacity.com/#!/rubrics/1567/view)
 
-[https://dreamy-wright-bbb546.netlify.app/leaderboard]9https://dreamy-wright-bbb546.netlify.app/leaderboard)
+Live code:[https://dreamy-wright-bbb546.netlify.app/leaderboard]9https://dreamy-wright-bbb546.netlify.app/leaderboard)
 
 ## Starter Code
 
